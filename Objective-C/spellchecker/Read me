@@ -1,0 +1,10 @@
+Read me
+
+1) Run the program by executing :
+
+./speller text/austinpowers.txt
+
+2) Program will output all the mispelled words, and also time taken to run the program
+
+3) Program uses loads the dictionary and stores it in a tries data structure. Hogs memory but fast execution.
+

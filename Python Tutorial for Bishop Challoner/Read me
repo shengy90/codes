@@ -1,0 +1,12 @@
+Read me
+
+Brief notes on the task:
+
+Write a python program that gives a series of arithmetic test to students, then store their test results.
+
+Cannot use (as students have yet to learn the following concepts):
+
+1) use arrays as the primary data structure (and maybe introduce nested array to more capable students)
+2) object-oriented programming
+3) dictionary/ hash tables
+4) functions
